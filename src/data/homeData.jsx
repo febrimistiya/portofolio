@@ -1,21 +1,21 @@
 const homeData = {
-  title: "Hi, I’m Febri Mistiya 👋",
+  title: "Hi, I’m Febri Mistiya",
   typingTexts: [
     "Frontend Developer",
     "Backend Developer",
     "Data Analytics",
   ],
   description: "Saya membangun solusi berbasis web dan mengubah data menjadi insight yang berguna untuk mendukung pengambilan keputusan.",
-  img: "/assets/profile.jpg",
+  img: "/assets/profile.jpeg",
   buttons: [
     {
       label: "Explore My Project",
-      href: "#",
+      href: "https://github.com/febrimistiya",
       type: "primary",
     },
     {
       label: "Download My CV",
-      href: "#",
+      href: "https://drive.google.com/file/d/1Ubd_nl_vhNroYTtZxY4Zge5oYF8h_hc8/view?usp=drivesdk",
       type: "secondary",
     },
   ],
@@ -46,7 +46,7 @@ const homeData = {
   stats: [
     {
       label: "Experience",
-      value: "2+ Years",
+      value: "Fresh Graduation",
       icon: "bx bx-briefcase",
     },
     {

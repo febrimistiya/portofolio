@@ -1,7 +1,7 @@
 const aboutData = {
     title: "About Me",
     subtitle: "Discover my journey, passions, and the story behind my work",
-    image: "/assets/profile.jpg",
+    image: "/assets/profile2.jpeg",
 
     biodata: [
         { label: "Name", value: "Febri Mistiya", icon: "bx bx-id-card" },

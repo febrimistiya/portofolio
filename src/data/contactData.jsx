@@ -13,11 +13,7 @@ const contactData = {
             value: "social",
             icon: "bx bx-link",
         },
-        {
-            label: "Support Me",
-            value: "support",
-            icon: "bx bx-heart",
-        },
+
     ],
 
     socials: [

@@ -9,7 +9,7 @@ const skillsData = {
         { name: "HTML", icon: "bx bxl-html5", level: "Advanced" },
         { name: "CSS", icon: "bx bxl-css3", level: "Advanced" },
         { name: "JavaScript", icon: "bx bxl-javascript", level: "Advanced" },
-        { name: "React", icon: "bx bxl-react", level: "Advanced" },
+        { name: "React", icon: "bx bxl-react", level: "Intermediate" },
         { name: "Python", icon: "bx bxl-python", level: "Advanced" },
         { name: "Bootstrap", icon: "bx bxl-bootstrap", level: "Intermediate" }
       ]
@@ -18,12 +18,11 @@ const skillsData = {
       title: "Backend",
       icon: "bx bx-server",
       skills: [
-        { name: "Node.js", icon: "bx bxl-nodejs", level: "Advanced" },
-        { name: "CodeIgniter", icon: "bx bx-data", level: "Advanced" },
+        { name: "Node.js", icon: "bx bxl-nodejs", level: "Intermediated" },
+        { name: "CodeIgniter", icon: "bx bx-data", level: "Intermediated" },
         { name: "Supabase", icon: "bx bx-data", level: "Intermediate" },
-        { name: "MongoDB", icon: "bx bxl-mongodb", level: "Intermediate" },
-        { name: "PostgreSQL", icon: "bx bxl-postgresql", level: "Intermediate" },
-        { name: "MySQL", icon: "bx bx-data", level: "Intermediate" },
+        { name: "PostgreSQL", icon: "bx bxl-postgresql", level: "Advanced" },
+        { name: "MySQL", icon: "bx bx-data", level: "Advanced" },
       ]
     },
     {
@@ -32,7 +31,7 @@ const skillsData = {
       skills: [
         { name: "Git", icon: "bx bxl-git", level: "Advanced" },
         { name: "GitHub", icon: "bx bxl-github", level: "Advanced" },
-        { name: "Figma", icon: "bx bxl-figma", level: "Intermediate" },
+        { name: "Excel", icon: "bx bxl-microsoft", level: "Advanced" },
         { name: "Vercel", icon: "bx bx-upload", level: "Intermediate" },
         { name: "Netlify", icon: "bx bx-cloud-upload", level: "Intermediate" },
         { name: "Postman", icon: "bx bx-send", level: "Intermediate" }
